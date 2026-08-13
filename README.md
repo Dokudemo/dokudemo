@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Replace these placeholders with your real profiles before publishing -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:dokudemo@proton.me">
@@ -43,61 +43,6 @@ My foundation includes semantic HTML, modern CSS, JavaScript, DOM manipulation, 
 </p>
 
 ---
-
-## Featured projects
-
-### Full-stack messaging app
-A real-time-inspired messaging application with user accounts, authentication, conversations, and a clean responsive interface.
-
-- Built RESTful routes for users, messages, and conversations.
-- Applied authentication and authorization so users can access only their own content.
-- Designed a relational database structure and connected the frontend to the backend API.
-
-`React` `Node.js` `Express` `PostgreSQL` `Prisma` `JWT`
-
-### Inventory management app
-A full-stack inventory application for organizing products, categories, and stock information.
-
-- Created CRUD operations for inventory items and categories.
-- Added server-side validation and clear error handling.
-- Built an admin-focused interface designed for quick, practical workflows.
-
-`JavaScript` `Node.js` `Express` `PostgreSQL` `MVC`
-
-### CV / portfolio builder
-A responsive frontend application that lets users create and preview a professional CV dynamically.
-
-- Managed form state and reusable UI components with React.
-- Added live preview functionality and clean responsive styling.
-- Focused on component composition and a clear user experience.
-
-`React` `JavaScript` `CSS` `Vite`
-
-### Calculator
-A browser calculator built from scratch with keyboard support and careful handling of user input.
-
-- Implemented arithmetic operations, decimals, clear/reset, delete, and keyboard controls.
-- Managed calculator state without relying on external libraries.
-- Handled edge cases such as division by zero and repeated operators.
-
-`HTML` `CSS` `JavaScript` `DOM`
-
-> Replace the project descriptions above with links to your repositories and live demos as you publish them.
-
----
-
-## What I learned through The Odin Project
-
-- Building responsive layouts with semantic HTML, CSS, Flexbox, and Grid.
-- Writing maintainable JavaScript with functions, modules, objects, array methods, and asynchronous code.
-- Creating interactive interfaces with DOM APIs, events, forms, and browser storage.
-- Developing React applications with reusable components, state, routing, and API integration.
-- Building backend applications with Node.js, Express, REST APIs, authentication, and PostgreSQL.
-- Using Git and GitHub as part of a consistent development workflow.
-- Debugging systematically, writing cleaner code, and improving projects through refactoring.
-
----
-
 ## Currently focused on
 
 - Building polished full-stack portfolio projects.
@@ -106,7 +51,3 @@ A browser calculator built from scratch with keyboard support and careful handli
 - Looking for opportunities to grow as a junior JavaScript full-stack developer.
 
 ---
-
-<p align="center">
-  Thanks for visiting my profile. Feel free to explore my repositories or get in touch! 🚀
-</p>
