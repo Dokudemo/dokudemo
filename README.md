@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Aleksandr Naumov 👋</h1>
+<h1 align="center">Hi, I'm Aleksandr Naumov</h1>
 
 <p align="center">
-  <strong>JavaScript Full-Stack Developer</strong> | The Odin Project JavaScript Full Stack Curriculum<br>
+  <strong>JavaScript Full-Stack Developer</strong><br>
   Building responsive web applications · Clean code · Practical problem-solving
 </p>
 
@@ -19,7 +19,7 @@
 
 ## About me
 
-I'm a JavaScript full-stack developer who completed **The Odin Project JavaScript Full Stack curriculum**. I enjoy turning ideas into practical, responsive web applications and continuously improving my code through debugging, refactoring, and building projects from scratch.
+I enjoy turning ideas into practical, responsive web applications and continuously improving my code through debugging, refactoring, and building projects from scratch.
 
 My foundation includes semantic HTML, modern CSS, JavaScript, DOM manipulation, Git/GitHub, React, Node.js, Express, databases, authentication, testing, and deployment. I care about readable code, accessible interfaces, and building features that solve real user problems.
 
