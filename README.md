@@ -21,7 +21,7 @@
 
 I enjoy turning ideas into practical, responsive web applications and continuously improving my code through debugging, refactoring, and building projects from scratch.
 
-My foundation includes semantic HTML, modern CSS, JavaScript, DOM manipulation, Git/GitHub, React, Node.js, Express, databases, authentication, testing, and deployment. I care about readable code, accessible interfaces, and building features that solve real user problems.
+My foundation includes HTML, CSS, JavaScript, Git/GitHub, React, Node.js, Express, databases, authentication, testing, and deployment. I care about readable code, accessible interfaces, and building features that solve real user problems.
 
 ---
 
