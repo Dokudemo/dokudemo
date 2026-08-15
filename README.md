@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aleksandr Naumov</h1>
+<h1 align="center">Hi, I'm Doku</h1>
 
 <p align="center">
   <strong>JavaScript Full-Stack Developer</strong><br>
